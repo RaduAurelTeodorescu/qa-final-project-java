@@ -2,7 +2,7 @@
 
 qa-final-project-java
 
-
+[![CI Pipeline for QA Project](https://github.com/RaduAurelTeodorescu/qa-final-project-java/actions/workflows/ci.yaml/badge.svg)](https://github.com/RaduAurelTeodorescu/qa-final-project-java/actions/workflows/ci.yaml)
 
 Proiectul are ca scop executarea testului API ApiTests.txt pentru https://jsonplaceholder.typicode.com intr-un container Docker.
 
